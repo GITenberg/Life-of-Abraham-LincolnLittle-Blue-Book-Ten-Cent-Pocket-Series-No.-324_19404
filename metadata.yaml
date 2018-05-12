@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/486
     wikipedia: http://en.wikipedia.org/wiki/E._Haldeman-Julius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19404#Life-of-Abraham-LincolnLittle-Blue-Book-Ten-Cent-Pocket-Series-No.-324
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2006-09-28'
 gutenberg_type: Text
