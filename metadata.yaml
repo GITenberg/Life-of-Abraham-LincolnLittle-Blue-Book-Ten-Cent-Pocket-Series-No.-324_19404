@@ -1,0 +1,39 @@
+_repo: Life-of-Abraham-LincolnLittle-Blue-Book-Ten-Cent-Pocket-Series-No.-324_19404
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bowers, John Hugh
+    birthdate: 1875
+    deathdate: 1923
+    gutenberg_agent_id: '8650'
+    url: http://www.gutenberg.org/2009/agents/8650
+  editor:
+    agent_name: Haldeman-Julius, E. (Emanuel)
+    aliases:
+    - Julius, Emanuel
+    - Haldeman-Julius, Emanuel
+    birthdate: 1888
+    deathdate: 1951
+    gutenberg_agent_id: '486'
+    url: http://www.gutenberg.org/2009/agents/486
+    wikipedia: http://en.wikipedia.org/wiki/E._Haldeman-Julius
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2006-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Juvenile literature'
+title: 'Life of Abraham Lincoln
+
+  Little Blue Book Ten Cent Pocket Series No. 324'
+url: http://www.gutenberg.org/ebooks/19404
